@@ -1,95 +1,91 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/AnshulSharma9340/AnshulSharma9340/main/assets/banner_ai_developer.gif" alt="Anshul Sharma AI Developer Banner" width="100%"/> 
+  <img src="https://raw.githubusercontent.com/AnshulSharma9340/AnshulSharma9340/main/assets/ai_brain_banner.gif" alt="AI Brain Processing Banner" width="100%"/>
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&color=00E4FF&center=true&vCenter=true&width=600&lines=Anshul+Sharma+-+AI+%26+ML+Engineer;Building+Intelligence.+Solving+Complexity.;From+Data+to+Deployment+🚀" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&duration=2500&color=00FFFF&center=true&vCenter=true&width=750&lines=Anshul+Sharma+-+AI+Architect+%26+MLOps+Specialist;Transforming+Data+into+Intelligent+Systems;Targeting+the+AI+Future+with+1CR%2B+Vision+🎯" alt="Typing SVG"/>
 </h1>
 
 ---
 
-## ⚙️ AI Engineer Status: Real-Time Metrics
+## 🛰️ SYSTEM STATUS: **REAL-TIME AI ACTIVITY**
 
-| 💻 Live Coding Metrics | 📅 Latest Blog Posts (Self-Updating) |
-| :--- | :--- |
-| **WakaTime Weekly Dev Metrics** | **Latest Posts from 'InfinityTech' or your Blog** |
-| [![Anshul's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=AnshulSharma9340&theme=dark&hide_title=true&hide_border=true&layout=compact&langs_count=5&custom_title=Weekly+Coding+Activity)](https://github.com/AnshulSharma9340/AnshulSharma9340/blob/main/metrics/wakatime_weekly.svg) | *⏳ Loading latest blog posts via GitHub Action...* |
-
-**👉 [View Detailed WakaTime Profile](https://wakatime.com/@AnshulSharma9340)** | **👉 [View InfinityTech on YouTube](https://www.youtube.com/@InfinityTech)**
-
----
-
-## 🧠 Core Competence: The AI & Data Stack
+| 📊 **Weekly Code Analysis (WakaTime)** | 📢 **Latest External Publication (GitHub Action)** |
+| :---: | :---: |
+| [![Anshul's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=AnshulSharma9340&theme=dark&hide_title=true&hide_border=true&layout=compact&langs_count=5&custom_title=Top+5+Weekly+Languages&range=last_7_days&bg_color=0D1117&title_color=00FFFF&text_color=B3C1CC&icon_color=00FFFF)](https://wakatime.com/@AnshulSharma9340) | **My Latest AI/Tech Blog Post or Video:** <br> *⏳ Loading latest updates from RSS feed...* |
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,flask,django,tensorflow,pytorch,sklearn,pandas,numpy,mongodb,mysql,aws,azure,docker,kubernetes,git,linux,vscode&perline=9"/>
-</p>
-
-### ⚙️ Tools of the Trade (Advanced)
-> **CI/CD & DevOps:** GitHub Actions, Docker, Kubernetes, Azure DevOps, Jenkins (Add icons for these if you use them!)
-> **Data & Analytics:** PostgreSQL, PowerBI, ETL Pipelines, Streamlit
-> **Cloud:** Azure ML Services, AWS SageMaker
-> **Frontend:** React, Next.js, TypeScript
-
----
-
-## 🎯 Featured AI & Data Products
-
-**यहाँ हम आपके प्रोजेक्ट्स को और ज़्यादा आकर्षक बनाएंगे और उनकी AI/ML वैल्यू पर ज़ोर देंगे।**
-
-| 🚀 Product Name | ✨ AI/ML Focus | 🔗 Repository |
-| :--- | :--- | :--- |
-| **🌐 WebGenius: LLM Website Generator** | **Generative AI** (LLMs), Prompt Engineering, Full-Stack Deployment | [Repo](https://github.com/AnshulSharma9340/WebGenius) |
-| **🧠 Real-Time Collaborative Recommender** | **Collaborative Filtering**, Optimized Data Structures, Fast Response Backend (Django/Flask) | [Repo](https://github.com/AnshulSharma9340/Movie-Recommendation-System) |
-| **🤖 Dynamic Machine Learning API** | Model Serving, **REST API Design** (Flask/Django), Scalable Prediction Endpoint | [Repo](https://github.com/AnshulSharma9340/YOUR_ML_API_PROJECT_NAME) |
-| **☁️ Azure/AWS ML Deployment Capstone** | **Cloud MLOps**, CI/CD for Models, Containerization (Docker) | [Repo](https://github.com/AnshulSharma9340/YOUR_MLOPS_PROJECT_NAME) |
-
----
-
-## 🚀 GitHub Performance Dashboard
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnshulSharma9340&show_icons=true&theme=vue&rank_icon=github&hide_border=true&cache_seconds=3600&title_color=00E4FF&text_color=c9d1d9&icon_color=00E4FF" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnshulSharma9340&theme=monokai&hide_border=true&date_format=j+M+Y&background=101010&stroke=00E4FF" alt="Streak Stats" height="180"/>
-</p>
-
-### 🏆 Advanced Recognition & Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AnshulSharma9340&theme=radical&no-frame=true&row=2&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
-</p>
-
----
-
-## 📈 Activity & Community (Dynamic Updates)
-
-### 💬 Recent GitHub Activity (Powered by GitHub Action)
-* ⏳ Fetching recent activity... This section will automatically update with your latest commits, PRs, and issues.
-### 🎵 What I'm Listening To Right Now (Requires Spotify Action)
-[![Spotify Playing](https://spotify-github-profile.vercel.app/api/spotify?username=AnshulSharma9340&theme=novas)](https://open.spotify.com/user/anshulsharma9340)
-
----
-
-## 📧 Connect & Collaborate
-
-> "The future belongs to those who learn more skills and combine them in creative ways." – **Robert Greene**
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AnshulSharma9340&label=Profile+Views&color=00E4FF&style=for-the-badge" alt="Profile Views"/>
-  <br>
-  <a href="https://linkedin.com/in/anshul-sharma-9856882a4" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:anshulsharma7162@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://wakatime.com/@AnshulSharma9340" target="_blank">
+    <img src="https://img.shields.io/badge/WakaTime-Deep_Dive-00FFFF?style=for-the-badge&logo=wakatime&logoColor=black"/>
   </a>
   <a href="https://www.youtube.com/@InfinityTech" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-  <a href="https://your-portfolio-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white"/>
+    <img src="https://img.shields.io/badge/YouTube-Watch_Now-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
 </p>
 
 ---
+
+## ⚙️ **MLOps & DEPLOYMENT ARSENAL**
+
+यह सेक्शन आपके AI फोकस को हाईलाइट करता है, जिसमें MLOps (Machine Learning Operations) और डिप्लॉयमेंट टूल्स पर ज़ोर है।
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,numpy,pandas,docker,kubernetes,jenkins,azure,aws,gcp,git,linux,bash,vscode&perline=8"/>
+  <br>
+  <br>
+  <img src="https://img.shields.io/badge/LLMs-HuggingFace-FFD700?style=flat-square&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Data_Viz-Plotly/Matplotlib-9370DB?style=flat-square&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NoSQL-MongoDB/Redis-00BFFF?style=flat-square&logo=mongodb&logoColor=white"/>
+</p>
+
+---
+
+## 📈 **ADVANCED GIT STATISTICS**
+
+हमने यहाँ पर Stats के लिए एक नया थीम (Aura) और एक नया कार्ड जोड़ा है: **Top Languages**।
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnshulSharma9340&show_icons=true&theme=aura&rank_icon=github&hide_border=true&cache_seconds=3600&title_color=00FFFF&text_color=C9D1D9&icon_color=00FFFF" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnshulSharma9340&theme=aura&hide_border=true&date_format=j+M+Y&background=0D1117&stroke=00FFFF" alt="Streak Stats"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshulSharma9340&layout=compact&theme=aura&hide_border=true&title_color=00FFFF&text_color=C9D1D9&icon_color=00FFFF" alt="Top Languages"/>
+</p>
+
+---
+
+## 🌐 **CURRENT PROJECTS: AI & SCALABILITY**
+
+| 🚀 Project Title | 💡 Core Tech Focus | 🌟 Uniqueness/Impact |
+| :---: | :---: | :---: |
+| **🌐 WebGenius (LLM Builder)** | **Generative AI**, Prompt Engineering, Next.js Frontend | Creates **Full, Functional Websites** from text prompts. |
+| **🧠 Real-Time Recommender Engine** | **Performance Optimization** (Caching, Redis), Collaborative Filtering | Highly **Scalable Backend** for dynamic user recommendations. |
+| **☁️ MLOps Pipeline on Azure** | **CI/CD, Docker/Kubernetes**, Model Versioning (DVC) | **Production-Grade** deployment of ML models. |
+| **🧰 Salesforce AI Integration** | Apex, LWC, **Custom AI Features** (Prediction/Classification) | Bringing AI capabilities into **Enterprise CRM** solutions. |
+
+---
+
+## 💬 **DYNAMIC ENGAGEMENT & RECENT ACTIVITY**
+
+### 🧩 **Latest GitHub Interaction (Self-Updating Feed)**
+* ⏳ Fetching recent GitHub activity (commits, issues, PRs)... This section updates automatically every few hours via GitHub Action.
+### 🏆 **Elite Tier Achievements**
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AnshulSharma9340&theme=onestar&no-frame=true&row=2&margin-w=10&margin-h=10&title=Elite,Algorithm,Star,Sponsor" alt="GitHub Trophies"/>
+</p>
+
+---
+
+## 🌟 **PROFILE VIEWS & SNAKE VISUAL**
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/AnshulSharma9340/AnshulSharma9340/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
-<h3 align="center">⚡ Building the Next Generation of AI with Code ⚡</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AnshulSharma9340&label=Profile+Views&color=00FFFF&style=for-the-badge&logo=github" alt="profile views"/>
+</p>
+
+---
+
+<h3 align="center">🔥 Built to Learn. Built to Scale. Built by Anshul Sharma. 🚀</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/anshul-sharma-9856882a4" target="_blank">Connect on LinkedIn</a> | <a href="mailto:anshulsharma7162@gmail.com">Email Me</a>
+</p>
