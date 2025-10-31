@@ -19,7 +19,7 @@
 💡 Experienced in **Python, Flask, Django, TensorFlow, and Data Science**.  
 📈 Proficient in **Machine Learning, NLP, Reinforcement Learning**, and **EDA**.  
 🧩 Worked on **AI, Web, Salesforce, and LLM-based** projects.  
-🎯 Mission: **Become a 1Cr+ Software Engineer** mastering AI & Systems Engineering.
+
 
 </details>
 
