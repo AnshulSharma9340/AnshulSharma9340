@@ -13,7 +13,8 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=AnshulSharma9340&label=PROFILE%20VIEWS%20%E2%9C%85&color=6366f1&style=for-the-badge" alt="Profile Views" />
 <img src="https://img.shields.io/badge/Status-Open%20for%20High%20Impact%20Projects-FF4500?style=for-the-badge&logo=react&logoColor=white" alt="Status" />
-<img src="https://img.shields.io/Mail-anshulsharma7162@gmail.com-28a745?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
+<img src="https://img.shields.io/badge/Mail-anshulsharma7162@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail" />
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/152342371/280908866-9e96f13b-31d7-400d-85f2-95f190e7855b.gif" width="900">
