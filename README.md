@@ -12,7 +12,7 @@
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=AnshulSharma9340&label=PROFILE%20VIEWS%20%E2%9C%85&color=6366f1&style=for-the-badge" alt="Profile Views" />
-<img src="https://img.shields.io/badge/Status-Open%20for%Internships-FF4500?style=for-the-badge&logo=react&logoColor=white" alt="Status" />
+<img src="https://img.shields.io/badge/Status-Open%20for%-FF4500?style=for-the-badge&logo=react&logoColor=white" alt="Status" />
 <img src="https://img.shields.io/badge/Mail-anshulsharma7162@gmail.com-28A745?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail" />
 
 
