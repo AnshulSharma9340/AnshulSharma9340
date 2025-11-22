@@ -1,157 +1,192 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/AnshulSharma9340/AnshulSharma9340/main/assets/immersive_boot_sequence.gif" alt="Immersive Console Boot Sequence" width="100%"/>
+    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </p>
 
-<h1 align="center" style="font-family: 'Share Tech Mono', monospace; color: #00FFFF; text-shadow: 0 0 7px #00FFFF, 0 0 10px #00FFFF;">
-    ::ACCESS_INITIATED::ANSHUL_SHARMA
-</h1>
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=35&duration=2000&pause=500&color=00FFFF&center=true&vCenter=true&multiline=false&repeat=false&width=1000&height=50&lines=%F0%9F%9A%80+ANSHUL+SHARMA%3A%3ACORE_ONLINE" alt="Typing SVG Title" />
+</div>
+
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=1000&pause=100&color=FF00FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=AI+%26+ML+ARCHITECT;FULL-STACK+DEVELOPER;OPEN_SOURCE_CONTRIBUTOR" alt="Typing SVG Roles" />
+</div>
+
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=AnshulSharma9340&label=ACCESS_LOGS&color=00FFFF&style=for-the-badge" alt="Profile Views" />
+    <img src="https://img.shields.io/badge/STATUS-AWAITING_PROJECTS-red?style=for-the-badge&logo=github&logoColor=white&color=FF00FF" alt="Status" />
+</div>
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=30&duration=4000&pause=500&color=FF00FF&center=true&vCenter=true&width=750&lines=CORE_SYSTEM_ONLINE;OBJECTIVE%3A+INNOVATION_MAXIMUM_THRUST;BUILDING_THE_FUTURE%3A+ONE_COMMIT_AT_A_TIME;CODE_IS_POETRY_WRITTEN_IN_LOGIC."/>
+    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </p>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ---
 
 ## 🟢 [[ CORE_SYSTEM::SPECIFICATIONS ]]
 
-<details open>
-<summary style="font-size: 1.3em; color: #00FF00; cursor: pointer; font-weight: bold; text-shadow: 0 0 5px #00FF00;">
-    <img src="https://raw.githubusercontent.com/AnshulSharma9340/AnshulSharma9340/main/assets/cpu_scan_icon.gif" width="30px" valign="middle"/> > SCANNING_PRIMARY_DATABASES...
-</summary>
-<br>
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding" width="400" />
 
-<div style="background-color: #0D1117; padding: 20px; border: 3px solid #FFD700; border-radius: 10px; box-shadow: 0 0 15px #FFD700;">
-    <h3 style="color: #FFD700; border-bottom: 1px solid #FFD700; padding-bottom: 5px; font-family: 'Courier New', monospace;">[ PROCESSOR_DATA_LOADED ]</h3>
-    <ul style="list-style-type: '⚡ '; color: #E0E0E0; font-family: 'Share Tech Mono', monospace;">
-      <li><span style="color: #00FFFF;">ACADEMIC_PATH:</span> BTech in Information Technology</li>
-      <li><span style="color: #00FFFF;">CURRENT_DIRECTIVE:</span> Open Source Contribution & AI/ML Architecture</li>
-      <li><span style="color: #00FFFF;">PRIMARY_MODULES:</span> Python (High Proficiency), JavaScript (Full Stack), SQL (Relational/NoSQL)</li>
-      <li><span style="color: #00FFFF;">ADVANCED_FRAMEWORKS:</span> TensorFlow, Keras, ReactJS, ExpressJS, NodeJS, MongoDB</li>
-    </ul>
-</div>
+<h3 style="color:#00FFFF;">[ PRIMARY_DIRECTIVES ]</h3>
 
-</details>
+- 👨🏻‍💻 **Pursuing BTech in Information Technology**.
+- 👨🏻‍💻 **Core Modules:** Python, JavaScript, ReactJS, ExpressJS, NodeJS, MongoDB, SQL.
+- 👨🏻‍💻 **ML Engine:** Experienced with Machine Learning frameworks like **TensorFlow** and **Keras**.
+- 👨🏻‍💻 **Mission:** Aspiring to make impactful contributions to **Open Source** initiatives.
+
+<br clear="right"/>
 
 ---
 
-## 💾 [[ DIGITAL_ARSENAL::DEPLOYMENT_LOG ]]
+## 💾 [[ DIGITAL_ARSENAL::MODULES ]]
 
-<details>
-<summary style="font-size: 1.3em; color: #FF00FF; cursor: pointer; font-weight: bold; text-shadow: 0 0 5px #FF00FF;">
-    <img src="https://raw.githubusercontent.com/AnshulSharma9340/AnshulSharma9340/main/assets/load_spinner.gif" width="30px" valign="middle"/> > LOADING_TECH_MATRIX...
-</summary>
+<div align="center">
+
+<table style="width:100%; border-collapse: separate; border-spacing: 0;">
+<tr>
+<td width="55%" align="left" style="padding-right: 20px;">
+  
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> TECH_MATRIX
 <br>
+<h4 style="color:#FF00FF;">FRONTEND::INTERFACE</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind" alt="Frontend Skills" />
+</p>
 
-<table style="width:100%; border-collapse: separate; border-spacing: 0 10px; font-family: 'Share Tech Mono', monospace;">
-    <thead>
-        <tr style="color: #00FFFF; background-color: #1A1A1A; border-bottom: 2px solid #00FFFF;">
-            <th align="left" style="padding: 10px; border-radius: 5px 0 0 5px;">MODULE</th>
-            <th align="left" style="padding: 10px; border-radius: 0 5px 5px 0;">TOOLKIT</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr style="background-color: #0D1117; color: #E0E0E0;">
-            <td style="padding: 10px; color: #00FF00;">WEB::FRONTEND</td>
-            <td style="padding: 10px;"><img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind&theme=dark" alt="Frontend Tech" /></td>
-        </tr>
-        <tr style="background-color: #0D1117; color: #E0E0E0;">
-            <td style="padding: 10px; color: #00FF00;">WEB::BACKEND</td>
-            <td style="padding: 10px;"><img src="https://skillicons.dev/icons?i=python,flask,django,express,nodejs,mongodb,mysql&theme=dark" alt="Backend Tech" /></td>
-        </tr>
-        <tr style="background-color: #0D1117; color: #E0E0E0;">
-            <td style="padding: 10px; color: #00FF00;">AI::ML_ENGINE</td>
-            <td style="padding: 10px;"><img src="https://skillicons.dev/icons?i=tensorflow,keras,sklearn,pandas,numpy&theme=dark" alt="AI/ML Tech" /></td>
-        </tr>
-    </tbody>
+<h4 style="color:#FF00FF;">BACKEND::LOGIC & DATA::STORE</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,flask,django" alt="Backend Skills" />
+</p>
+
+<h4 style="color:#FF00FF;">AI/ML & DEVOPS::TOOLS</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,tensorflow,sklearn,azure,linux" alt="Tools" />
+</p>
+
+</td>
+<td width="45%" align="center">
+  
+<h4 style="color:#00FFFF;">CONTRIBUTION_REPORT</h4>
+<img src="https://github-contributor-stats.vercel.app/api?username=AnshulSharma9340&limit=8&theme=dark&combine_all_yearly_contributions=true&bg_color=0d1117" alt="Contributor Stats"/>
+</td>
+</tr>
 </table>
 
-</details>
-
----
-
-## ⚡ [[ PROJECT_MATRIX::ACCESS_LOGS ]]
-
-<details>
-<summary style="font-size: 1.3em; color: #FFD700; cursor: pointer; font-weight: bold; text-shadow: 0 0 5px #FFD700;">
-    <img src="https://raw.githubusercontent.com/AnshulSharma9340/AnshulSharma9340/main/assets/data_transfer_icon.gif" width="30px" valign="middle"/> > PULLING_PROJECT_RECORDS...
-</summary>
-<br>
-
-<div style="background-color: #1A1A1A; padding: 15px; border-radius: 8px;">
-    <p style="color: #00FF00; font-family: 'Courier New', monospace;">
-        > STATUS: OK. Fetching 5 records.<br>
-        <span style="color: #00FFFF;">[001]</span> <a href="https://github.com/AnshulSharma9340/WebGenius" style="color:#00FFFF; text-decoration:none;">WEBGENIUS</a> - LLM-powered dynamic web construction protocol.<br>
-        <span style="color: #FF00FF;">[002]</span> <a href="https://github.com/AnshulSharma9340/Movie-Recommendation-System" style="color:#FF00FF; text-decoration:none;">CINE_REC</a> - Optimized collaborative filtering for media suggestion.<br>
-        <span style="color: #00FF00;">[003]</span> <a href="https://github.com/AnshulSharma9340/Academic-Trailblazers" style="color:#00FF00; text-decoration:none;">ACAD_TRAIL</a> - Secure Python-based achievement validation system.<br>
-        <span style="color: #FFD700;">[004]</span> <a href="https://github.com/AnshulSharma9340/Salesforce-Capstone" style="color:#FFD700; text-decoration:none;">SF_CAPSTONE</a> - CRM architecture using Apex and Lightning Web Components.<br>
-        <span style="color: #E0E0E0;">[005]</span> <a href="https://github.com/AnshulSharma9340/InfinityClub" style="color:#E0E0E0; text-decoration:none;">INFINITY_PORTAL</a> - High-availability club website MERN deployment.
-    </p>
 </div>
 
-</details>
-
 ---
 
-## 📊 [[ ACTIVITY_MONITOR::LIVE_STREAM ]]
+## 📊 [[ ACTIVITY_MONITOR::LIVE_FEED ]]
 
-<details>
-<summary style="font-size: 1.3em; color: #FF00FF; cursor: pointer; font-weight: bold; text-shadow: 0 0 5px #FF00FF;">
-    <img src="https://raw.githubusercontent.com/AnshulSharma9340/AnshulSharma9340/main/assets/graph_pulse_icon.gif" width="30px" valign="middle"/> > MONITORING_NEURAL_ACTIVITY...
-</summary>
-<br>
+<div align="center">
+<h3 style="color:#FF00FF;">PROFILE_SUMMARY::OVERVIEW</h3>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnshulSharma9340&theme=github_dark&bg_color=0d1117"/>
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=AnshulSharma9340&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=00FFFF&icon_color=FF00FF&text_color=FFFFFF&bg_color=0D1117" alt="GitHub Stats" height="165px"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnshulSharma9340&theme=dark&hide_border=true&ring=00FF00&fire=FF0000&currstreak=FFD700&sideNums=FFFFFF&sideLabels=CCCCCC&dates=CCCCCC&background=0D1117" alt="GitHub Streak" height="165px"/>
-</p>
+<table style="width:100%; border-collapse: separate; border-spacing: 0;">
+<tr>
+<td width="50%" align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnshulSharma9340&show_icons=true&theme=dark&count_private=true&hide_border=true&bg_color=0d1117&title_color=FF00FF&icon_color=00FFFF&text_color=c9d1d9"/>
+</td>
+<td width="50%" align="center">
+    <img src="https://streak-stats.demolab.com/?user=AnshulSharma9340&theme=dark&hide_border=true&background=0D1117&stroke=FF00FF&ring=00FFFF&fire=f59e0b&currStreakLabel=c9d1d9" alt="GitHub Streak" />
+</td>
+</tr>
+</table>
 
-<p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnshulSharma9340&bg_color=0D1117&color=00FFFF&line=FF00FF&point=FFD700&area=true&hide_border=true&title_color=00FFFF&text_color=FFFFFF" alt="Activity Graph"/>
-</p>
-</details>
+<table style="width:100%; border-collapse: separate; border-spacing: 0;">
+<tr>
+<td width="60%" align="center">
+<h4 style="color:#00FFFF;">CODING_TIME::WAKATIME</h4>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=AnshulSharma9340&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FFFF" />
+</td>
+<td width="40%" align="center">
+<h4 style="color:#00FFFF;">TOP_LANGUAGES</h4>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshulSharma9340&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF00FF&text_color=c9d1d9"/>
+</td>
+</tr>
+</table>
+
+<table style="width:100%; border-collapse: separate; border-spacing: 0;">
+<tr>
+<td width="33%" align="center">
+<h4 style="color:#FF00FF;">LANG_DISTRIBUTION</h4>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshulSharma9340&theme=github_dark&hide_border=true&layout=compact&langs_count=10&custom_title= &bg_color=0d1117"/>
+</td>
+<td width="33%" align="center">
+<h4 style="color:#FF00FF;">REPO_PER_LANG</h4>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnshulSharma9340&theme=github_dark&bg_color=0d1117"/>
+</td>
+<td width="33%" align="center">
+<h4 style="color:#FF00FF;">MOST_COMMITS_IN</h4>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnshulSharma9340&theme=github_dark&bg_color=0d1117"/>
+</td>
+</tr>
+</table>
+
+<h3 style="color:#00FFFF;">ACTIVITY_GRAPH::LIVE_STREAM</h3>
+<div align="center">
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnshulSharma9340&theme=github_dark&bg_color=0d1117&color=c9d1d9&line=FF00FF&point=00FFFF&area=true&hide_border=true" alt="Contribution Graph" />
+  
+</div>
+
+</div>
 
 ---
 
 ## 🏆 [[ REWARD_SYSTEM::ACQUISITIONS ]]
 
-<p align="center">
-    <span style="font-family: 'Space Mono', monospace; color: #00FF00; text-shadow: 0 0 5px #00FF00;">**STATUS: ACHIEVEMENT_UNLOCKED**</span>
-</p>
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=AnshulSharma9340&theme=darkhub&no-frame=true&margin-w=10&row=1&column=7&title=C0EEFF&rank=FFD700&icon=FF00FF" alt="GitHub Trophies"/>
-</p>
+<details open>
+<summary style="font-size: 1.3em; color: #00FFFF; cursor: pointer; font-weight: bold;">
+    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> > VIEW_DISTINGUISHED_BADGES
+</summary>
+<br>
+
+<div align="center">
+
+<h3 style="color:#FF00FF;">TROPHY_COLLECTION::DISPLAY</h3>
+<img src="https://github-profile-trophy.vercel.app/?username=AnshulSharma9340&theme=darkhub&no-frame=true&row=1&column=8&margin-w=10&margin-h=10&no-bg=true"/>
+
+### 🐍 ANIMATED_CERTIFICATION_FEED 🐍
+<img src="https://raw.githubusercontent.com/AnshulSharma9340/AnshulSharma9340/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="900" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+<h4 style="color:#00FF00;">IBM_CREDENTIALS::LOADED</h4>
+<table>
+  <tr>
+    <td align="center" width="150"> <img src="https://img.shields.io/badge/🏅-IBM-32CD32?style=for-the-badge&labelColor=006400" width="100"> <br> <a href="YOUR_LINK_HERE"> <img width="120" src="https://github.com/user-attachments/assets/3ab1a6a5-5a83-4839-ba62-a3f18a9cb475" /> </a> <br> <img src="https://img.shields.io/badge/⭐-VIEW_CREDENTIAL-32CD32?style=flat&labelColor=006400" width="80"> </td>
+    <td align="center" width="150"> <img src="https://img.shields.io/badge/🏅-IBM-FF7F50?style=for-the-badge&labelColor=CD5C5C" width="100"> <br> <a href="YOUR_LINK_HERE"> <img width="120" src="https://github.com/user-attachments/assets/5e58bda2-9472-4026-9587-3fd3ad93e135" /> </a> <br> <img src="https://img.shields.io/badge/⭐-VIEW_CREDENTIAL-FF7F50?style=flat&labelColor=CD5C5C" width="80"> </td>
+  </tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+<h4 style="color:#9370DB;">GOOGLE_CLOUD::LOADED</h4>
+<table>
+  <tr>
+    <td align="center" width="150"> <img src="https://img.shields.io/badge/🏅-GOOGLE-9370DB?style=for-the-badge&labelColor=4B0082" width="100"> <br> <a href="YOUR_LINK_HERE"> <img width="120" src="https://github.com/user-attachments/assets/5da2e679-3b52-4441-8283-cc0326214a9f" /> </a> <br> <img src="https://img.shields.io/badge/⭐-VIEW_CREDENTIAL-9370DB?style=flat&labelColor=4B0082" width="80"> </td>
+      </tr>
+</table>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+</div>
+</details>
 
 ---
 
-## 🌐 [[ NEURAL_LINK::ESTABLISH_CONNECTION ]]
+## 🌐 [[ NEURAL_LINK::CONNECTION ]]
 
-<p align="center">
-      <a href="mailto:anshulsharma7162@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&colorA=0D1117&colorB=D14836"></a>
-  <a href="https://linkedin.com/in/anshul-sharma-9856882a4"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&colorA=0D1117&colorB=0077B5"></a>
-  <a href="https://github.com/AnshulSharma9340"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&colorA=0D1117&colorB=181717"></a>
-  <a href="https://www.youtube.com/@InfinityTech"><img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white&colorA=0D1117&colorB=FF0000"></a>
-  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/PORTFOLIO-00FFFF?style=for-the-badge&logo=react&logoColor=black&colorA=0D1117&colorB=00FFFF"></a>
-</p>
-
----
-
-## 🐍 [[ DATA_STREAM_VISUALIZER ]]
-
-<p align="center">
-    <img src="https://raw.githubusercontent.com/AnshulSharma9340/AnshulSharma9340/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
-</p>
-
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=AnshulSharma9340&color=00FF00&style=for-the-badge&label=ACCESS_ATTEMPTS_LOGGED" alt="Visitor Counter"/>
-</p>
+<div align="center">
+  
+    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&colorA=0d1117)](https://www.linkedin.com/in/anshul-sharma-9856882a4)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&colorA=0d1117)](https://github.com/AnshulSharma9340)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF00FF?style=for-the-badge&logo=firefox&logoColor=white&colorA=0d1117)](https://your-portfolio-link.com)
+</div>
 
 ---
 
-<p align="center">
-    <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-    <h3 align="center" style="font-family: 'Share Tech Mono', monospace; color: #FF00FF; text-shadow: 0 0 5px #FF00FF;">
-        <img src="https://raw.githubusercontent.com/AnshulSharma9340/AnshulSharma9340/main/assets/shutdown_gif.gif" width="30px" valign="middle"/> &nbsp; // SYSTEM_SHUTDOWN::PENDING &nbsp; (DO NOT DISCONNECT)
-    </h3>
-</p>
+<div align="center">
+  
+  <h3 style="color:#00FFFF;"> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> "CODE_IS_POETRY_WRITTEN_IN_LOGIC" </h3>
+  
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00FFFF,FF00FF,0D1117&height=120&section=footer&text=ACCESS_TERMINATED&fontSize=20&fontColor=FF00FF&animation=twinkling"/>
+  
+</div>
