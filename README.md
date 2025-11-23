@@ -128,7 +128,8 @@ I am a highly motivated **B.Tech (Data Science)** undergraduate, specializing in
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnshulSharma9340&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=8b5cf6&text_color=c9d1d9" alt="GitHub Stats"/>
 </td>
 <td width="50%">
-<img src="https://streak-stats.demolab.com/?user=AnshulSharma9340&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366f1&ring=8b5cf6&fire=f59e0b&currStreakLabel=c9d1d9" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnshulSharma9340&theme=tokyonight&hide_border=true&background=0D1117" />
+
 </td>
 </tr>
 </table>
