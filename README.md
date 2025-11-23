@@ -39,7 +39,7 @@ I am a highly motivated **B.Tech (Data Science)** undergraduate, specializing in
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
----
+
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> &nbsp; The Ultra-Advanced Stack
 
@@ -95,7 +95,7 @@ I am a highly motivated **B.Tech (Data Science)** undergraduate, specializing in
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
----
+
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> &nbsp; Project & Experience Portfolio
 
@@ -115,7 +115,7 @@ I am a highly motivated **B.Tech (Data Science)** undergraduate, specializing in
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
----
+
 
 ## <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" width="35"> &nbsp; GitHub Performance & Metrics
 
@@ -139,7 +139,7 @@ I am a highly motivated **B.Tech (Data Science)** undergraduate, specializing in
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
----
+
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> &nbsp; Global Certifications
 
@@ -170,7 +170,7 @@ I am a highly motivated **B.Tech (Data Science)** undergraduate, specializing in
 
 </details>
 
----
+
 
 ## 🔗 &nbsp; Connect with The Architect
 
