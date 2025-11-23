@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=1000&pause=100&color=F7931E&center=true&vCenter=true&multiline=false&width=1000&height=50&lines=Python+Expert;+Data+Strategist;+Full-Stack+AI+Developer;+Building+Intelligent+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=1000&pause=100&color=F7931E&center=true&vCenter=true&multiline=false&width=1000&height=50&lines=Python+Expert;+Data+Strategist;+Full-Stack+Developer;+Building+Intelligent+Solutions;+Data+Analyst;+Data+Engineer;+Data+Scientist;" alt="Typing SVG" />
 </div>
 
 <div align="center">
