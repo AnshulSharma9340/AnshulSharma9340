@@ -36,7 +36,9 @@ I am a highly motivated **B.Tech (Data Science)** undergraduate, specializing in
 * **🚀 Mission:** To leverage cutting-edge technologies (LLMs, Deep Learning) to create innovative, production-ready solutions.
 
 <br clear="right"/>
-
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
 ---
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> &nbsp; The Ultra-Advanced Stack
@@ -87,7 +89,9 @@ I am a highly motivated **B.Tech (Data Science)** undergraduate, specializing in
 
 ![](https://github-contributor-stats.vercel.app/api?username=AnshulSharma9340&limit=8&theme=dark&combine_all_yearly_contributions=true)
 </div>
-
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
 ---
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> &nbsp; Project & Experience Portfolio
@@ -96,13 +100,18 @@ I am a highly motivated **B.Tech (Data Science)** undergraduate, specializing in
 * **Data Analytics Intern, Veridia.io** (Nov 2025 – Present): Designed and deployed **Resume Intelligence System** (ML-powered candidate scoring/categorization).
 * **Machine Learning Intern, Cognify Technologies** (Aug 2025 – Oct 2025): Developed **Employee Insight Engine**—a suite of 4 ML models for attrition and performance prediction.
 * **Data Science Intern, Prodigy Infotech**: Created a live **Suspicious Transaction Detection System** utilizing anomaly detection algorithms.
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
 
 ### 💡 Flagship Projects
 * **Luminal Engine (LLM-RAG Platform)**: Built from scratch, this system offers Perplexity AI-style contextual Q&A using cutting-edge RAG architecture.
 * **WebGenius (AI Website Builder)**: An NLP-to-UI solution that generates responsive websites from text prompts (Tech: Next.js, LLMs).
 * **Academic Trailblazers**: Scalable web platform designed for institutional use, automating student achievement tracking and recognition.
 * **Jarvis Artificial Intelligence**: Personal, voice-controlled assistant demonstrating proficiency in automation and integration.
-
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
 ---
 
 ## <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" width="35"> &nbsp; GitHub Performance & Metrics
@@ -123,7 +132,9 @@ I am a highly motivated **B.Tech (Data Science)** undergraduate, specializing in
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnshulSharma9340&theme=tokyo-night&bg_color=0d1117&color=c9d1d9&line=6366f1&point=8b5cf6&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
-
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
 ---
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> &nbsp; Global Certifications
