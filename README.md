@@ -19,6 +19,10 @@
 
 </div>
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
+
 <img src="https://user-images.githubusercontent.com/152342371/280908866-9e96f13b-31d7-400d-85f2-95f190e7855b.gif" width="900">
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> &nbsp; About Anshul: The Data Innovator
