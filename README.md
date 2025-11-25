@@ -203,5 +203,5 @@ I am a highly motivated **B.Tech (Data Science)** undergraduate, specializing in
 
 </div>
 
-<img src="https://github-contributor-stats.vercel.app/api?username=AnshulSharma9340&limit=8&theme=tokyonight&animation=true" />
+
 
