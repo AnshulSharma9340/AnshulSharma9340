@@ -155,7 +155,8 @@ I am a highly motivated **B.Tech (Data Science)** undergraduate, specializing in
 <br>
 
 <div align="center">
-<img src="https://github-profile-trophy-api.vercel.app/?username=AnshulSharma9340&theme=github_dark&no-frame=true&row=1&column=8&margin-w=10&margin-h=10&no-bg=true" />
+<img src="https://raw.githubusercontent.com/ryo-ma/github-profile-trophy/master/api/?username=AnshulSharma9340&theme=github_dark&no-frame=true&row=1&column=8&margin-w=10&margin-h=10&no-bg=true" />
+
 
 
 ### ☁️ Cloud & Infrastructure Mastery
