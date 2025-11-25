@@ -125,11 +125,13 @@ I am a highly motivated **B.Tech (Data Science)** undergraduate, specializing in
 <table>
 <tr>
 <td width="50%">
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AnshulSharma9340&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=8b5cf6&text_color=c9d1d9" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnshulSharma9340&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+
 
 </td>
 <td width="50%">
-<img src="https://streak-stats.demolab.com?user=AnshulSharma9340&theme=tokyonight&hide_border=true&background=0D1117" />
+<img src="https://streak-stats.demolab.com?user=AnshulSharma9340&theme=tokyonight&hide_border=true" />
+
 
 
 </td>
