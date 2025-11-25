@@ -125,7 +125,10 @@ I am a highly motivated **B.Tech (Data Science)** undergraduate, specializing in
 <table>
 <tr>
 <td width="50%">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnshulSharma9340&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+<img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=AnshulSharma9340&show_icons=true&theme=tokyonight&hide_border=true" />
+
+
+
 
 
 </td>
