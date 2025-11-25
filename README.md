@@ -202,3 +202,6 @@ I am a highly motivated **B.Tech (Data Science)** undergraduate, specializing in
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thank+For+Visiting!+%F0%9F%99%8F&fontSize=25&fontColor=fff&animation=twinkling"/>
 
 </div>
+
+<img src="https://github-contributor-stats.vercel.app/api?username=AnshulSharma9340&limit=8&theme=tokyonight&animation=true" />
+
