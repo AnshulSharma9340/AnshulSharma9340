@@ -155,7 +155,8 @@ I am a highly motivated **B.Tech (Data Science)** undergraduate, specializing in
 <br>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/ryo-ma/github-profile-trophy/master/images/trophy/github_dark/2020/github-dark.svg" />
+<img src="https://github-profile-trophy.vercel.app/?username=AnshulSharma9340&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=1&column=8" />
+
 
 
 
