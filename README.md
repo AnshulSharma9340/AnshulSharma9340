@@ -179,7 +179,7 @@ I am a highly motivated **B.Tech (Data Science)** undergraduate, specializing in
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anshul-sharma-9856882a4)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnshulSharma9340)
 [![Email](https://img.shields.io/badge/Email-anshulsharma7162@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshulsharma7162@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio%20Website-FF7139?style=for-the-badge&logo=Firefox&logoColor=white)](PLACEHOLDER_PORTFOLIO_LINK)
+[![Portfolio](https://img.shields.io/badge/Portfolio%20Website-FF7139?style=for-the-badge&logo=Firefox&logoColor=white)](portfolio-sandy-five-8ulr675iy1.vercel.app)
 
 </div>
 
