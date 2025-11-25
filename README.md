@@ -125,10 +125,12 @@ I am a highly motivated **B.Tech (Data Science)** undergraduate, specializing in
 <table>
 <tr>
 <td width="50%">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnshulSharma9340&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=8b5cf6&text_color=c9d1d9" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AnshulSharma9340&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=8b5cf6&text_color=c9d1d9" />
+
 </td>
 <td width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnshulSharma9340&theme=tokyonight&hide_border=true&background=0D1117" />
+<img src="https://streak-stats.demolab.com?user=AnshulSharma9340&theme=tokyonight&hide_border=true&background=0D1117" />
+
 
 </td>
 </tr>
@@ -179,7 +181,8 @@ I am a highly motivated **B.Tech (Data Science)** undergraduate, specializing in
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anshul-sharma-9856882a4)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnshulSharma9340)
 [![Email](https://img.shields.io/badge/Email-anshulsharma7162@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshulsharma7162@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio%20Website-FF7139?style=for-the-badge&logo=Firefox&logoColor=white)]([portfolio-sandy-five-8ulr675iy1.vercel.app](https://portfolio-sandy-five-8ulr675iy1.vercel.app/))
+[![Portfolio](https://img.shields.io/badge/Portfolio%20Website-FF7139?style=for-the-badge&logo=Firefox&logoColor=white)](https://portfolio-sandy-five-8ulr675iy1.vercel.app/)
+
 
 </div>
 
