@@ -1,6 +1,6 @@
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
+<a href="YOUR_REPO_URL_HERE">
+  <img loading="lazy" width="149" height="149" src="https://github.blog/wp-content/uploads/2008/12/forkme_right_green_007200.png?resize=149%2C149" class="attachment-full size-full" alt="Fork me on GitHub" data-recalc-dims="1" style="position: absolute; top: 0; right: 0; border: 0;">
+</a>
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=45&duration=1000&pause=500&color=20F5FF&center=true&vCenter=true&multiline=false&repeat=false&width=1200&height=70&lines=%E2%9C%A8%F0%9F%9A%80+ANSHUL+SHARMA+%7C+THE+DATA+SCIENCE+ARCHITECT" alt="Typing SVG" />
