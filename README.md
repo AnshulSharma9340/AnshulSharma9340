@@ -1,8 +1,6 @@
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/241740205-8e1f7d72-6d0a-45c1-a7c6-733e1c8a2f99.gif" width="900">
+<img src="https://user-images.githubusercontent.com/74038190/241740226-6040b8fc-8b4e-45d2-bb55-0207b52fc1e3.gif" width="900">
 </div>
-
-
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=45&duration=1000&pause=500&color=20F5FF&center=true&vCenter=true&multiline=false&repeat=false&width=1200&height=70&lines=%E2%9C%A8%F0%9F%9A%80+ANSHUL+SHARMA+%7C+THE+DATA+SCIENCE+ARCHITECT" alt="Typing SVG" />
