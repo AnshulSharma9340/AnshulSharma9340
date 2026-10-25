@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="359" viewBox="0 0 1200 359" role="img"
+  aria-label="Forward pass: the stack a request travels through. Data, models, agents and retrieval, serving, interface; runs on Linux, GCP, Azure, Oracle Cloud, C++.">
+  <rect x="0.5" y="0.5" width="1199" height="358" rx="18" fill="#ffffff" stroke="#d0d7de"/>
+  <text x="40" y="42" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#1f2328">forward pass</text>
+  <text x="190" y="42" font-family="'JetBrains Mono', Consolas, 'Courier New', monospace" font-size="12.5" fill="#636c76">— the stack a request travels through, left to right</text>
+<line x1="40" y1="179.5" x2="1160" y2="179.5" stroke="#e3e8ee" stroke-width="2"/>
+<g><circle r="9" fill="#0891b2" opacity="0.25"/><circle r="4" fill="#0891b2"/><animateMotion dur="5.5s" repeatCount="indefinite" path="M40 179.5 L1160 179.5"/></g>
+<g>
+<rect x="40.0" y="70" width="204.8" height="219" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+<g opacity="0"><animate attributeName="opacity" values="1.0;1.0;0.0;0.0" keyTimes="0.000;0.163;0.183;1.000" dur="5.5s" repeatCount="indefinite"/><rect x="40.0" y="70" width="204.8" height="219" rx="12" fill="#0891b2" fill-opacity="0.05" stroke="#0891b2" stroke-width="1.4"/><rect x="41.0" y="71" width="202.8" height="217" rx="11" fill="none" stroke="#0891b2" stroke-opacity="0.35" stroke-width="4"/></g>
+<text x="52.0" y="95" font-family="'JetBrains Mono', Consolas, 'Courier New', monospace" font-size="11.5" fill="#0891b2">L0</text><text x="78.0" y="95" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="600" fill="#1f2328">data</text>
+<rect x="52.0" y="110" width="60.8" height="22" rx="6" fill="#ffffff" stroke="#d0d7de"/><text x="82.4" y="125" text-anchor="middle" font-family="'JetBrains Mono', Consolas, 'Courier New', monospace" font-size="11.5" fill="#2f3741">Python</text>
+<rect x="118.8" y="110" width="60.8" height="22" rx="6" fill="#ffffff" stroke="#d0d7de"/><text x="149.2" y="125" text-anchor="middle" font-family="'JetBrains Mono', Consolas, 'Courier New', monospace" font-size="11.5" fill="#2f3741">pandas</text>
+<rect x="52.0" y="139" width="53.6" height="22" rx="6" fill="#ffffff" stroke="#d0d7de"/><text x="78.8" y="154" text-anchor="middle" font-family="'JetBrains Mono', Consolas, 'Courier New', monospace" font-size="11.5" fill="#2f3741">NumPy</text>
+<rect x="111.7" y="139" width="103.6" height="22" rx="6" fill="#ffffff" stroke="#d0d7de"/><text x="163.4" y="154" text-anchor="middle" font-family="'JetBrains Mono', Consolas, 'Courier New', monospace" font-size="11.5" fill="#2f3741">scikit-learn</text>
+<rect x="52.0" y="168" width="89.3" height="22" rx="6" fill="#ffffff" stroke="#d0d7de"/><text x="96.7" y="183" text-anchor="middle" font-family="'JetBrains Mono', Consolas, 'Courier New', monospace" font-size="11.5" fill="#2f3741">PostgreSQL</text>
+<rect x="147.3" y="168" width="67.9" height="22" rx="6" fill="#ffffff" stroke="#d0d7de"/><text x="181.3" y="183" text-anchor="middle" font-family="'JetBrains Mono', Consolas, 'Courier New', monospace" font-size="11.5" fill="#2f3741">MongoDB</text>
+<rect x="52.0" y="197" width="53.6" height="22" rx="6" fill="#ffffff" stroke="#d0d7de"/><text x="78.8" y="212" text-anchor="middle" font-family="'JetBrains Mono', Consolas, 'Courier New', monospace" font-size="11.5" fill="#2f3741">Redis</text>
+<rect x="111.7" y="197" width="75.0" height="22" rx="6" fill="#ffffff" stroke="#d0d7de"/><text x="149.2" y="212" text-anchor="middle" font-family="'JetBrains Mono', Consolas, 'Courier New', monospace" font-size="11.5" fill="#2f3741">Supabase</text>
+</g>
+<path d="M252.8 174.5 L257.8 179.5 L252.8 184.5" fill="none" stroke="#636c76" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" opacity="0.7"/>
+<g>
+<rect x="268.8" y="70" width="204.8" height="219" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+<g opacity="0"><animate attributeName="opacity" values="0.0;0.0;1.0;1.0;0.0;0.0" keyTimes="0.000;0.204;0.224;0.367;0.387;1.000" dur="5.5s" repeatCount="indefinite"/><rect x="268.8" y="70" width="204.8" height="219" rx="12" fill="#0891b2" fill-opacity="0.05" stroke="#0891b2" stroke-width="1.4"/><rect x="269.8" y="71" width="202.8" height="217" rx="11" fill="none" stroke="#0891b2" stroke-opacity="0.35" stroke-width="4"/></g>
+<text x="280.8" y="95" font-family="'JetBrains Mono', Consolas, 'Courier New', monospace" font-size="11.5" fill="#0891b2">L1</text><text x="306.8" y="95" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="600" fill="#1f2328">models</text>
+<rect x="280.8" y="110" width="67.9" height="22" rx="6" fill="#ffffff" stroke="#d0d7de"/><text x="314.8" y="125" text-anchor="middle" font-family="'JetBrains Mono', Consolas, 'Courier New', monospace" font-size="11.5" fill="#2f3741">PyTorch</text>
+<rect x="354.7" y="110" width="103.6" height="22" rx="6" fill="#ffffff" stroke="#d0d7de"/><text x="406.5" y="125" text-anchor="middle" font-family="'JetBrains Mono', Consolas, 'Courier New', monospace" font-size="11.5" fill="#2f3741">Hugging Face</text>
+<rect x="280.8" y="139" width="67.9" height="22" rx="6" fill="#ffffff" stroke="#d0d7de"/><text x="314.8" y="154" text-anchor="middle" font-family="'JetBrains Mono', Consolas, 'Courier New', monospace" font-size="11.5" fill="#2f3741">Unsloth</text>
+<rect x="354.7" y="139" width="103.6" height="22" rx="6" fill="#ffffff" stroke="#d0d7de"/><text x="406.5" y="154" text-anchor="middle" font-family="'JetBrains Mono', Consolas, 'Courier New', monospace" font-size="11.5" fill="#2f3741">QLoRA / PEFT</text>
+<rect x="280.8" y="168" width="103.6" height="22" rx="6" fill="#ffffff" stroke="#d0d7de"/><text x="332.6" y="183" text-anchor="middle" font-family="'JetBrains Mono', Consolas, 'Courier New', monospace" font-size="11.5" fill="#2f3741">distillation</text>
+<rect x="280.8" y="197" width="125.0" height="22" rx="6" fill="#ffffff" stroke="#d0d7de"/><text x="343.3" y="212" text-anchor="middle" font-family="'JetBrains Mono', Consolas, 'Courier New', monospace" font-size="11.5" fill="#2f3741">LLM pretraining</text>
+<rect x="280.8" y="226" width="67.9" height="22" rx="6" fill="#ffffff" stroke="#d0d7de"/><text x="314.8" y="241" text-anchor="middle" font-family="'JetBrains Mono', Consolas, 'Courier New', monospace" font-size="11.5" fill="#2f3741">Whisper</text>
+<rect x="354.7" y="226" width="39.4" height="22" rx="6" fill="#ffffff" stroke="#d0d7de"/><text x="374.4" y="241" text-anchor="middle" font-family="'JetBrains Mono', Consolas, 'Courier New', monospace" font-size="11.5" fill="#2f3741">DSP</text>
+</g>
+<path d="M481.6 174.5 L486.6 179.5 L481.6 184.5" fill="none" stroke="#636c76" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" opacity="0.7"/>
+<g>
+<rect x="497.6" y="70" width="204.8" height="219" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+<g opacity="0"><animate attributeName="opacity" values="0.0;0.0;1.0;1.0;0.0;0.0" keyTimes="0.000;0.409;0.429;0.571;0.591;1.000" dur="5.5s" repeatCount="indefinite"/><rect x="497.6" y="70" width="204.8" height="219" rx="12" fill="#0891b2" fill-opacity="0.05" stroke="#0891b2" stroke-width="1.4"/><rect x="498.6" y="71" width="202.8" height="217" rx="11" fill="none" stroke="#0891b2" stroke-opacity="0.35" stroke-width="4"/></g>
+<text x="509.6" y="95" font-family="'JetBrains Mono', Consolas, 'Courier New', monospace" font-size="11.5" fill="#0891b2">L2</text><text x="535.6" y="95" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="600" fill="#1f2328">agents + retrieval</text>
+<rect x="509.6" y="110" width="89.3" height="22" rx="6" fill="#ffffff" stroke="#d0d7de"/><text x="554.2" y="125" text-anchor="middle" font-family="'JetBrains Mono', Consolas, 'Courier New', monospace" font-size="11.5" fill="#2f3741">Claude API</text>
+<rect x="509.6" y="139" width="89.3" height="22" rx="6" fill="#ffffff" stroke="#d0d7de"/><text x="554.2" y="154" text-anchor="middle" font-family="'JetBrains Mono', Consolas, 'Courier New', monospace" font-size="11.5" fill="#2f3741">OpenAI API</text>
+<rect x="509.6" y="168" width="89.3" height="22" rx="6" fill="#ffffff" stroke="#d0d7de"/><text x="554.2" y="183" text-anchor="middle" font-family="'JetBrains Mono', Consolas, 'Courier New', monospace" font-size="11.5" fill="#2f3741">Gemini API</text>
+<rect x="509.6" y="197" width="96.4" height="22" rx="6" fill="#ffffff" stroke="#d0d7de"/><text x="557.8" y="212" text-anchor="middle" font-family="'JetBrains Mono', Consolas, 'Courier New', monospace" font-size="11.5" fill="#2f3741">MCP servers</text>
+<rect x="509.6" y="226" width="96.4" height="22" rx="6" fill="#ffffff" stroke="#d0d7de"/><text x="557.8" y="241" text-anchor="middle" font-family="'JetBrains Mono', Consolas, 'Courier New', monospace" font-size="11.5" fill="#2f3741">multi-agent</text>
+<rect x="612.0" y="226" width="39.4" height="22" rx="6" fill="#ffffff" stroke="#d0d7de"/><text x="631.7" y="241" text-anchor="middle" font-family="'JetBrains Mono', Consolas, 'Courier New', monospace" font-size="11.5" fill="#2f3741">RAG</text>
+<rect x="509.6" y="255" width="132.1" height="22" rx="6" fill="#ffffff" stroke="#d0d7de"/><text x="575.6" y="270" text-anchor="middle" font-family="'JetBrains Mono', Consolas, 'Courier New', monospace" font-size="11.5" fill="#2f3741">eval / QA passes</text>
+</g>
+<path d="M710.4 174.5 L715.4 179.5 L710.4 184.5" fill="none" stroke="#636c76" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" opacity="0.7"/>
+<g>
+<rect x="726.4" y="70" width="204.8" height="219" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+<g opacity="0"><animate attributeName="opacity" values="0.0;0.0;1.0;1.0;0.0;0.0" keyTimes="0.000;0.613;0.633;0.776;0.796;1.000" dur="5.5s" repeatCount="indefinite"/><rect x="726.4" y="70" width="204.8" height="219" rx="12" fill="#0891b2" fill-opacity="0.05" stroke="#0891b2" stroke-width="1.4"/><rect x="727.4" y="71" width="202.8" height="217" rx="11" fill="none" stroke="#0891b2" stroke-opacity="0.35" stroke-width="4"/></g>
+<text x="738.4" y="95" font-family="'JetBrains Mono', Consolas, 'Courier New', monospace" font-size="11.5" fill="#0891b2">L3</text><text x="764.4" y="95" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="600" fill="#1f2328">serving</text>
+<rect x="738.4" y="110" width="67.9" height="22" rx="6" fill="#ffffff" stroke="#d0d7de"/><text x="772.4" y="125" text-anchor="middle" font-family="'JetBrains Mono', Consolas, 'Courier New', monospace" font-size="11.5" fill="#2f3741">FastAPI</text>
+<rect x="812.3" y="110" width="53.6" height="22" rx="6" fill="#ffffff" stroke="#d0d7de"/><text x="839.1" y="125" text-anchor="middle" font-family="'JetBrains Mono', Consolas, 'Courier New', monospace" font-size="11.5" fill="#2f3741">Flask</text>
+<rect x="738.4" y="139" width="60.8" height="22" rx="6" fill="#ffffff" stroke="#d0d7de"/><text x="768.8" y="154" text-anchor="middle" font-family="'JetBrains Mono', Consolas, 'Courier New', monospace" font-size="11.5" fill="#2f3741">Django</text>
+<rect x="805.2" y="139" width="67.9" height="22" rx="6" fill="#ffffff" stroke="#d0d7de"/><text x="839.1" y="154" text-anchor="middle" font-family="'JetBrains Mono', Consolas, 'Courier New', monospace" font-size="11.5" fill="#2f3741">Node.js</text>
+<rect x="738.4" y="168" width="60.8" height="22" rx="6" fill="#ffffff" stroke="#d0d7de"/><text x="768.8" y="183" text-anchor="middle" font-family="'JetBrains Mono', Consolas, 'Courier New', monospace" font-size="11.5" fill="#2f3741">Docker</text>
+<rect x="738.4" y="197" width="117.8" height="22" rx="6" fill="#ffffff" stroke="#d0d7de"/><text x="797.3" y="212" text-anchor="middle" font-family="'JetBrains Mono', Consolas, 'Courier New', monospace" font-size="11.5" fill="#2f3741">GitHub Actions</text>
+</g>
+<path d="M939.2 174.5 L944.2 179.5 L939.2 184.5" fill="none" stroke="#636c76" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" opacity="0.7"/>
+<g>
+<rect x="955.2" y="70" width="204.8" height="219" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+<g opacity="0"><animate attributeName="opacity" values="0.0;0.0;1.0;1.0" keyTimes="0.000;0.817;0.837;1.000" dur="5.5s" repeatCount="indefinite"/><rect x="955.2" y="70" width="204.8" height="219" rx="12" fill="#0891b2" fill-opacity="0.05" stroke="#0891b2" stroke-width="1.4"/><rect x="956.2" y="71" width="202.8" height="217" rx="11" fill="none" stroke="#0891b2" stroke-opacity="0.35" stroke-width="4"/></g>
+<text x="967.2" y="95" font-family="'JetBrains Mono', Consolas, 'Courier New', monospace" font-size="11.5" fill="#0891b2">L4</text><text x="993.2" y="95" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="600" fill="#1f2328">interface</text>
+<rect x="967.2" y="110" width="89.3" height="22" rx="6" fill="#ffffff" stroke="#d0d7de"/><text x="1011.9" y="125" text-anchor="middle" font-family="'JetBrains Mono', Consolas, 'Courier New', monospace" font-size="11.5" fill="#2f3741">TypeScript</text>
+<rect x="1062.5" y="110" width="53.6" height="22" rx="6" fill="#ffffff" stroke="#d0d7de"/><text x="1089.3" y="125" text-anchor="middle" font-family="'JetBrains Mono', Consolas, 'Courier New', monospace" font-size="11.5" fill="#2f3741">React</text>
+<rect x="967.2" y="139" width="67.9" height="22" rx="6" fill="#ffffff" stroke="#d0d7de"/><text x="1001.2" y="154" text-anchor="middle" font-family="'JetBrains Mono', Consolas, 'Courier New', monospace" font-size="11.5" fill="#2f3741">Next.js</text>
+<rect x="1041.1" y="139" width="75.0" height="22" rx="6" fill="#ffffff" stroke="#d0d7de"/><text x="1078.6" y="154" text-anchor="middle" font-family="'JetBrains Mono', Consolas, 'Courier New', monospace" font-size="11.5" fill="#2f3741">Electron</text>
+<rect x="967.2" y="168" width="75.0" height="22" rx="6" fill="#ffffff" stroke="#d0d7de"/><text x="1004.7" y="183" text-anchor="middle" font-family="'JetBrains Mono', Consolas, 'Courier New', monospace" font-size="11.5" fill="#2f3741">Tailwind</text>
+</g>
+<text x="40" y="338" font-family="'JetBrains Mono', Consolas, 'Courier New', monospace" font-size="12" fill="#636c76">runs on</text>
+<rect x="108.0" y="323" width="53.6" height="22" rx="6" fill="#ffffff" stroke="#d0d7de"/><text x="134.8" y="338" text-anchor="middle" font-family="'JetBrains Mono', Consolas, 'Courier New', monospace" font-size="11.5" fill="#2f3741">Linux</text>
+<rect x="167.7" y="323" width="39.4" height="22" rx="6" fill="#ffffff" stroke="#d0d7de"/><text x="187.3" y="338" text-anchor="middle" font-family="'JetBrains Mono', Consolas, 'Courier New', monospace" font-size="11.5" fill="#2f3741">GCP</text>
+<rect x="213.0" y="323" width="53.6" height="22" rx="6" fill="#ffffff" stroke="#d0d7de"/><text x="239.9" y="338" text-anchor="middle" font-family="'JetBrains Mono', Consolas, 'Courier New', monospace" font-size="11.5" fill="#2f3741">Azure</text>
+<rect x="272.7" y="323" width="103.6" height="22" rx="6" fill="#ffffff" stroke="#d0d7de"/><text x="324.5" y="338" text-anchor="middle" font-family="'JetBrains Mono', Consolas, 'Courier New', monospace" font-size="11.5" fill="#2f3741">Oracle Cloud</text>
+<rect x="382.2" y="323" width="82.2" height="22" rx="6" fill="#ffffff" stroke="#d0d7de"/><text x="423.3" y="338" text-anchor="middle" font-family="'JetBrains Mono', Consolas, 'Courier New', monospace" font-size="11.5" fill="#2f3741">C++ (DSA)</text>
+<text x="1160" y="338" text-anchor="end" font-family="'JetBrains Mono', Consolas, 'Courier New', monospace" font-size="12" fill="#636c76">one request, five layers, no hand-offs</text>
+</svg>

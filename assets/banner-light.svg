@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="456" viewBox="0 0 1200 456" role="img"
+  aria-label="Anshul Sharma. A training run that is still going: a loss curve of things I do not know yet, with checkpoints at ITM Gwalior, Prodigy Infotech, Cognify Technologies, Veridia.io and Rapid Innovation.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#f8fafc"/>
+    </linearGradient>
+    <linearGradient id="curve" gradientUnits="userSpaceOnUse" x1="90" y1="0" x2="1060" y2="0">
+      <stop offset="0" stop-color="#7c3aed"/>
+      <stop offset="0.55" stop-color="#0891b2"/>
+      <stop offset="1" stop-color="#0891b2"/>
+    </linearGradient>
+    <linearGradient id="swatch" gradientUnits="userSpaceOnUse" x1="90" y1="0" x2="116" y2="0">
+      <stop offset="0" stop-color="#7c3aed"/>
+      <stop offset="1" stop-color="#0891b2"/>
+    </linearGradient>
+    <linearGradient id="area" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0891b2" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#0891b2" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#1f2328"/>
+      <stop offset="1" stop-color="#1f2328"/>
+    </linearGradient>
+    <clipPath id="reveal"><rect x="90" y="190" width="0" height="195">
+      <animate attributeName="width" from="0" to="970" begin="0.5s" dur="3.4s" fill="freeze"/>
+    </rect></clipPath>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="1199" height="455" rx="18" fill="url(#bg)" stroke="#d0d7de"/>
+
+  <!-- status line -->
+  <circle cx="68" cy="47" r="4.5" fill="#059669">
+    <animate attributeName="opacity" values="1;0.25;1" dur="1.8s" repeatCount="indefinite"/>
+  </circle>
+  <text x="82" y="51" font-family="'JetBrains Mono', Consolas, 'Courier New', monospace" font-size="12.5" fill="#636c76">run: anshul-sharma<tspan dx="18">status: training</tspan><tspan dx="18">step: now</tspan><tspan dx="18">loss: still going down</tspan></text>
+  <text x="1140" y="51" text-anchor="end" font-family="'JetBrains Mono', Consolas, 'Courier New', monospace" font-size="12.5" fill="#636c76">github.com/AnshulSharma9340</text>
+
+  <!-- name -->
+  <text x="60" y="108" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="46" font-weight="700" letter-spacing="-0.5" fill="#1f2328">Anshul Sharma</text>
+  <text x="60" y="143" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="18" fill="#636c76">AI/ML engineer · fine-tunes small LLMs, builds real-time speech models, and engineers the harness that keeps agents honest.</text>
+
+  <!-- legend row -->
+  <line x1="90" y1="184" x2="116" y2="184" stroke="url(#swatch)" stroke-width="2.5" stroke-linecap="round"/>
+  <text x="124" y="188" font-family="'JetBrains Mono', Consolas, 'Courier New', monospace" font-size="12" fill="#636c76">loss = things I don't know yet</text>
+  <line x1="380" y1="184" x2="406" y2="184" stroke="#059669" stroke-width="1.8" stroke-dasharray="4 3" stroke-linecap="round"/>
+  <text x="414" y="188" font-family="'JetBrains Mono', Consolas, 'Courier New', monospace" font-size="12" fill="#636c76">shipped = things that work</text>
+  <text x="1130" y="188" text-anchor="end" font-family="'JetBrains Mono', Consolas, 'Courier New', monospace" font-size="12" fill="#636c76">x = step (not to scale) →</text>
+
+  <!-- shipped curve (revealed left to right in step with the loss curve) -->
+  <path d="M90.0 359.6 L96.1 359.5 L102.1 359.3 L108.2 359.2 L114.2 359.1 L120.3 359.0 L126.4 358.8 L132.4 358.7 L138.5 358.6 L144.6 358.4 L150.6 358.3 L156.7 358.1 L162.8 357.9 L168.8 357.7 L174.9 357.6 L180.9 357.4 L187.0 357.2 L193.1 357.0 L199.1 356.7 L205.2 356.5 L211.2 356.3 L217.3 356.0 L223.4 355.8 L229.4 355.5 L235.5 355.2 L241.6 354.9 L247.6 354.6 L253.7 354.3 L259.8 354.0 L265.8 353.7 L271.9 353.3 L277.9 353.0 L284.0 352.6 L290.1 352.2 L296.1 351.8 L302.2 351.4 L308.2 350.9 L314.3 350.5 L320.4 350.0 L326.4 349.5 L332.5 349.0 L338.6 348.5 L344.6 347.9 L350.7 347.4 L356.8 346.8 L362.8 346.2 L368.9 345.5 L374.9 344.9 L381.0 344.2 L387.1 343.5 L393.1 342.8 L399.2 342.1 L405.2 341.3 L411.3 340.5 L417.4 339.7 L423.4 338.9 L429.5 338.0 L435.6 337.1 L441.6 336.2 L447.7 335.3 L453.8 334.3 L459.8 333.3 L465.9 332.3 L471.9 331.3 L478.0 330.2 L484.1 329.1 L490.1 328.0 L496.2 326.8 L502.2 325.6 L508.3 324.4 L514.4 323.2 L520.4 321.9 L526.5 320.7 L532.6 319.4 L538.6 318.0 L544.7 316.7 L550.8 315.3 L556.8 313.9 L562.9 312.5 L568.9 311.1 L575.0 309.6 L581.1 308.2 L587.1 306.7 L593.2 305.2 L599.2 303.7 L605.3 302.2 L611.4 300.6 L617.4 299.1 L623.5 297.5 L629.6 296.0 L635.6 294.4 L641.7 292.8 L647.8 291.3 L653.8 289.7 L659.9 288.1 L665.9 286.5 L672.0 285.0 L678.1 283.4 L684.1 281.8 L690.2 280.3 L696.2 278.8 L702.3 277.2 L708.4 275.7 L714.4 274.2 L720.5 272.7 L726.6 271.2 L732.6 269.8 L738.7 268.3 L744.8 266.9 L750.8 265.5 L756.9 264.1 L762.9 262.8 L769.0 261.4 L775.1 260.1 L781.1 258.8 L787.2 257.5 L793.2 256.3 L799.3 255.1 L805.4 253.9 L811.4 252.7 L817.5 251.6 L823.6 250.5 L829.6 249.4 L835.7 248.3 L841.8 247.3 L847.8 246.3 L853.9 245.3 L859.9 244.3 L866.0 243.4 L872.1 242.5 L878.1 241.6 L884.2 240.8 L890.2 240.0 L896.3 239.2 L902.4 238.4 L908.4 237.6 L914.5 236.9 L920.6 236.2 L926.6 235.5 L932.7 234.8 L938.8 234.2 L944.8 233.6 L950.9 233.0 L956.9 232.4 L963.0 231.9 L969.1 231.3 L975.1 230.8 L981.2 230.3 L987.2 229.8 L993.3 229.3 L999.4 228.9 L1005.4 228.5 L1011.5 228.0 L1017.6 227.6 L1023.6 227.3 L1029.7 226.9 L1035.8 226.5 L1041.8 226.2 L1047.9 225.9 L1053.9 225.5 L1060.0 225.2" clip-path="url(#reveal)" fill="none" stroke="#059669" stroke-width="1.8" stroke-dasharray="4 4" stroke-linecap="round" opacity="0.75"/>
+
+  <!-- grid + axis -->
+<line x1="90" y1="205" x2="1130" y2="205" stroke="#eef1f5" stroke-width="1"/>
+<line x1="90" y1="250" x2="1130" y2="250" stroke="#eef1f5" stroke-width="1"/>
+<line x1="90" y1="295" x2="1130" y2="295" stroke="#eef1f5" stroke-width="1"/>
+<line x1="90" y1="340" x2="1130" y2="340" stroke="#eef1f5" stroke-width="1"/>
+
+  <line x1="90" y1="385" x2="1060" y2="385" stroke="#636c76" stroke-width="1.2" opacity="0.8"/>
+  <line x1="1060" y1="385" x2="1130" y2="385" stroke="#636c76" stroke-width="1.2" stroke-dasharray="2 5" opacity="0.5"/>
+  <text x="1130" y="377" text-anchor="end" font-family="'JetBrains Mono', Consolas, 'Courier New', monospace" font-size="11" fill="#636c76" opacity="0.8">2027 →</text>
+
+  <!-- area under curve -->
+  <path d="M90.0 203.5 L96.1 202.2 L102.1 205.7 L108.2 212.1 L114.2 217.5 L120.3 219.5 L126.4 219.1 L132.4 219.1 L138.5 221.0 L144.6 223.7 L150.6 225.1 L156.7 225.0 L162.8 226.0 L168.8 230.8 L174.9 239.4 L180.9 248.7 L187.0 254.9 L193.1 256.7 L199.1 256.5 L205.2 256.8 L211.2 258.4 L217.3 259.7 L223.4 259.0 L229.4 257.2 L235.5 256.9 L241.6 260.1 L247.6 265.3 L253.7 269.1 L259.8 269.0 L265.8 265.6 L271.9 261.9 L277.9 260.4 L284.0 260.9 L290.1 261.6 L296.1 261.5 L302.2 261.8 L308.2 265.0 L314.3 271.4 L320.4 278.6 L326.4 283.3 L332.5 284.0 L338.6 282.7 L344.6 282.3 L350.7 284.4 L356.8 287.6 L362.8 290.0 L368.9 291.2 L374.9 292.7 L381.0 296.1 L387.1 300.9 L393.1 304.2 L399.2 303.7 L405.2 299.6 L411.3 294.9 L417.4 292.3 L423.4 292.3 L429.5 293.3 L435.6 293.4 L441.6 293.1 L447.7 294.0 L453.8 297.1 L459.8 300.9 L465.9 302.9 L471.9 301.8 L478.0 299.0 L484.1 297.6 L490.1 299.3 L496.2 303.4 L502.2 307.5 L508.3 310.4 L514.4 312.7 L520.4 315.8 L526.5 319.9 L532.6 323.0 L538.6 323.2 L544.7 320.3 L550.8 316.7 L556.8 315.0 L562.9 316.2 L568.9 318.4 L575.0 319.6 L581.1 319.3 L587.1 318.7 L593.2 319.1 L599.2 320.1 L605.3 319.9 L611.4 317.5 L617.4 313.8 L623.5 311.4 L629.6 312.2 L635.6 315.7 L641.7 319.7 L647.8 322.4 L653.8 323.9 L659.9 325.5 L665.9 327.9 L672.0 330.3 L678.1 331.1 L684.1 329.7 L690.2 327.9 L696.2 327.9 L702.3 330.5 L708.4 334.2 L714.4 336.8 L720.5 337.2 L726.6 336.2 L732.6 335.3 L738.7 335.0 L744.8 334.2 L750.8 331.9 L756.9 328.5 L762.9 326.1 L769.0 326.2 L775.1 328.6 L781.1 331.6 L787.2 333.0 L793.2 332.8 L799.3 332.3 L805.4 332.5 L811.4 333.6 L817.5 334.2 L823.6 333.9 L829.6 333.3 L835.7 334.2 L841.8 337.3 L847.8 341.5 L853.9 344.6 L859.9 345.6 L866.0 344.8 L872.1 343.7 L878.1 343.3 L884.2 343.2 L890.2 342.3 L896.3 340.6 L902.4 339.1 L908.4 339.2 L914.5 340.9 L920.6 342.8 L926.6 343.2 L932.7 341.8 L938.8 339.6 L944.8 338.2 L950.9 338.0 L956.9 338.3 L963.0 338.2 L969.1 338.0 L975.1 338.8 L981.2 341.1 L987.2 344.4 L993.3 346.9 L999.4 347.7 L1005.4 346.9 L1011.5 346.0 L1017.6 346.0 L1023.6 346.8 L1029.7 347.5 L1035.8 347.5 L1041.8 347.4 L1047.9 347.9 L1053.9 349.3 L1060.0 350.7 L1060.0 385 L90 385 Z" fill="url(#area)" opacity="0">
+    <animate attributeName="opacity" from="0" to="0.55" begin="3.90s" dur="0.9s" fill="freeze"/>
+  </path>
+
+  <!-- the curve -->
+  <path d="M90.0 203.5 L96.1 202.2 L102.1 205.7 L108.2 212.1 L114.2 217.5 L120.3 219.5 L126.4 219.1 L132.4 219.1 L138.5 221.0 L144.6 223.7 L150.6 225.1 L156.7 225.0 L162.8 226.0 L168.8 230.8 L174.9 239.4 L180.9 248.7 L187.0 254.9 L193.1 256.7 L199.1 256.5 L205.2 256.8 L211.2 258.4 L217.3 259.7 L223.4 259.0 L229.4 257.2 L235.5 256.9 L241.6 260.1 L247.6 265.3 L253.7 269.1 L259.8 269.0 L265.8 265.6 L271.9 261.9 L277.9 260.4 L284.0 260.9 L290.1 261.6 L296.1 261.5 L302.2 261.8 L308.2 265.0 L314.3 271.4 L320.4 278.6 L326.4 283.3 L332.5 284.0 L338.6 282.7 L344.6 282.3 L350.7 284.4 L356.8 287.6 L362.8 290.0 L368.9 291.2 L374.9 292.7 L381.0 296.1 L387.1 300.9 L393.1 304.2 L399.2 303.7 L405.2 299.6 L411.3 294.9 L417.4 292.3 L423.4 292.3 L429.5 293.3 L435.6 293.4 L441.6 293.1 L447.7 294.0 L453.8 297.1 L459.8 300.9 L465.9 302.9 L471.9 301.8 L478.0 299.0 L484.1 297.6 L490.1 299.3 L496.2 303.4 L502.2 307.5 L508.3 310.4 L514.4 312.7 L520.4 315.8 L526.5 319.9 L532.6 323.0 L538.6 323.2 L544.7 320.3 L550.8 316.7 L556.8 315.0 L562.9 316.2 L568.9 318.4 L575.0 319.6 L581.1 319.3 L587.1 318.7 L593.2 319.1 L599.2 320.1 L605.3 319.9 L611.4 317.5 L617.4 313.8 L623.5 311.4 L629.6 312.2 L635.6 315.7 L641.7 319.7 L647.8 322.4 L653.8 323.9 L659.9 325.5 L665.9 327.9 L672.0 330.3 L678.1 331.1 L684.1 329.7 L690.2 327.9 L696.2 327.9 L702.3 330.5 L708.4 334.2 L714.4 336.8 L720.5 337.2 L726.6 336.2 L732.6 335.3 L738.7 335.0 L744.8 334.2 L750.8 331.9 L756.9 328.5 L762.9 326.1 L769.0 326.2 L775.1 328.6 L781.1 331.6 L787.2 333.0 L793.2 332.8 L799.3 332.3 L805.4 332.5 L811.4 333.6 L817.5 334.2 L823.6 333.9 L829.6 333.3 L835.7 334.2 L841.8 337.3 L847.8 341.5 L853.9 344.6 L859.9 345.6 L866.0 344.8 L872.1 343.7 L878.1 343.3 L884.2 343.2 L890.2 342.3 L896.3 340.6 L902.4 339.1 L908.4 339.2 L914.5 340.9 L920.6 342.8 L926.6 343.2 L932.7 341.8 L938.8 339.6 L944.8 338.2 L950.9 338.0 L956.9 338.3 L963.0 338.2 L969.1 338.0 L975.1 338.8 L981.2 341.1 L987.2 344.4 L993.3 346.9 L999.4 347.7 L1005.4 346.9 L1011.5 346.0 L1017.6 346.0 L1023.6 346.8 L1029.7 347.5 L1035.8 347.5 L1041.8 347.4 L1047.9 347.9 L1053.9 349.3 L1060.0 350.7" fill="none" stroke="url(#curve)" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"
+        stroke-dasharray="1047.3" stroke-dashoffset="1047.3">
+    <animate attributeName="stroke-dashoffset" from="1047.3" to="0" begin="0.5s" dur="3.4s" fill="freeze"/>
+  </path>
+
+  <!-- checkpoints -->
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.75s" dur="0.45s" fill="freeze"/>
+  <line x1="150" y1="232.0" x2="150" y2="385" stroke="#7c3aed" stroke-width="1" stroke-dasharray="2 4" opacity="0.55"/>
+  <line x1="150" y1="385" x2="150" y2="392" stroke="#636c76" stroke-width="1.5"/>
+  <circle cx="150" cy="225.0" r="5" fill="#ffffff" stroke="#7c3aed" stroke-width="2.2"/>
+  <text x="150" y="412" text-anchor="middle" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#1f2328">ITM Gwalior</text>
+  <text x="150" y="430" text-anchor="middle" font-family="'JetBrains Mono', Consolas, 'Courier New', monospace" font-size="11.5" fill="#636c76">B.Tech CSE (Data Science) · 2023–2027</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.60s" dur="0.45s" fill="freeze"/>
+  <line x1="380" y1="302.4" x2="380" y2="385" stroke="#7c3aed" stroke-width="1" stroke-dasharray="2 4" opacity="0.55"/>
+  <line x1="380" y1="385" x2="380" y2="392" stroke="#636c76" stroke-width="1.5"/>
+  <circle cx="380" cy="295.4" r="5" fill="#ffffff" stroke="#7c3aed" stroke-width="2.2"/>
+  <text x="380" y="412" text-anchor="middle" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#1f2328">Prodigy Infotech</text>
+  <text x="380" y="430" text-anchor="middle" font-family="'JetBrains Mono', Consolas, 'Courier New', monospace" font-size="11.5" fill="#636c76">Data Science intern</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.39s" dur="0.45s" fill="freeze"/>
+  <line x1="605" y1="327.0" x2="605" y2="385" stroke="#7c3aed" stroke-width="1" stroke-dasharray="2 4" opacity="0.55"/>
+  <line x1="605" y1="385" x2="605" y2="392" stroke="#636c76" stroke-width="1.5"/>
+  <circle cx="605" cy="320.0" r="5" fill="#ffffff" stroke="#7c3aed" stroke-width="2.2"/>
+  <text x="605" y="412" text-anchor="middle" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#1f2328">Cognify Technologies</text>
+  <text x="605" y="430" text-anchor="middle" font-family="'JetBrains Mono', Consolas, 'Courier New', monospace" font-size="11.5" fill="#636c76">ML intern · Aug–Oct 2025</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="3.18s" dur="0.45s" fill="freeze"/>
+  <line x1="830" y1="340.3" x2="830" y2="385" stroke="#7c3aed" stroke-width="1" stroke-dasharray="2 4" opacity="0.55"/>
+  <line x1="830" y1="385" x2="830" y2="392" stroke="#636c76" stroke-width="1.5"/>
+  <circle cx="830" cy="333.3" r="5" fill="#ffffff" stroke="#7c3aed" stroke-width="2.2"/>
+  <text x="830" y="412" text-anchor="middle" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#1f2328">Veridia.io</text>
+  <text x="830" y="430" text-anchor="middle" font-family="'JetBrains Mono', Consolas, 'Courier New', monospace" font-size="11.5" fill="#636c76">Data Analytics intern</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="3.93s" dur="0.45s" fill="freeze"/>
+  <line x1="1060" y1="357.7" x2="1060" y2="385" stroke="#d97706" stroke-width="1" stroke-dasharray="2 4" opacity="0.55"/>
+  <line x1="1060" y1="385" x2="1060" y2="392" stroke="#636c76" stroke-width="1.5"/>
+  <circle cx="1060" cy="350.7" r="6" fill="#d97706" opacity="0.5"><animate attributeName="r" values="6;20;6" dur="2.4s" begin="4.33s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.55;0;0.55" dur="2.4s" begin="4.33s" repeatCount="indefinite"/></circle>
+  <circle cx="1060" cy="350.7" r="5.5" fill="#d97706" stroke="#ffffff" stroke-width="2"/>
+  <text x="1060" y="412" text-anchor="middle" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#1f2328">Rapid Innovation</text>
+  <text x="1060" y="430" text-anchor="middle" font-family="'JetBrains Mono', Consolas, 'Courier New', monospace" font-size="11.5" fill="#636c76">AI engineering · now</text>
+</g>
+
+</svg>
